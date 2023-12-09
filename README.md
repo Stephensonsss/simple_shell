@@ -78,4 +78,5 @@
 
 ## Authors
 
-- iAmG-r00t 👾
+- Samuel Stephen
+- Neo Magadanineo
